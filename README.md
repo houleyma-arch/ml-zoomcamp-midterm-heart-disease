@@ -88,7 +88,7 @@ Final model on the test set: **AUC = 0.900, accuracy = 0.836**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ml-zoomcamp-midterm-heart-disease.git
+git clone https://github.com/houleyma-arch/ml-zoomcamp-midterm-heart-disease.git
 cd ml-zoomcamp-midterm-heart-disease
 ```
 
